@@ -1,0 +1,6 @@
+{
+  "name": "ISP Management System",
+  "description": "A comprehensive ISP management system featuring live OTDR fiber cut monitoring, real-time ONU and Mikrotik router control, customer billing with payment gateway simulation, and subscriber diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
